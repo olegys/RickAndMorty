@@ -40,7 +40,7 @@ const List<ViewModel> characters = [
   ViewModel(
     id: 0,
     avatar:
-        'https://s3-alpha-sig.figma.com/img/b86d/7059/b695d8bbb483cac677dfbff28a6b3f98?Expires=1621814400&Signature=XROk5IQRFdely4e0xm-Z84oMdUGlQrpzOmG4jMDjtEf41uOZoZW1WMO1Io991FM91vmIQKOOPcuW1uI9m-XieCNDCNmdjLOb8JFSK9kj5dRDxRNW14SwhPmcCS56nVWQMC6Q5rC9h-AOmpvVTzKJWFKbmX7Rxl2JaAPTUhlAQA8oalejsc7NSrkwWG9CLE6FDDWrDEbSXGJiFqnfjSioxCC64r5hwJjgr4Lm8e~PDkgi2OR-wlsiG6w0AWTo3o~DNxvVThrMttN5nRqZEj8qXlaLrdXR1Ef2MHaRIX9w4u2nwHpLgvwv54TEWlePTuDO2FI~rags7Vf9VfJdbAfkCA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA',
+        'https://s3-alpha-sig.figma.com/img/b86d/7059/b695d8bbb483cac677dfbff28a6b3f98?Expires=1623024000&Signature=XKO7ZmV5Gs6ko9bPPpjUdu985kEHNAicB0DzF1qzQjjp0Au9txt8Vlskw41ksyObo1G-jC57ttY14sidqpCJOyc9V1D-2X4uHLipuZfYrn3z12VBFc9Za8AQU3MM9NW5-g7-Dv78hGWvT2NhSs1Tip55zkUb2rc5UqR7VCd5tI0OEGQZwsfSXYCexpQnug9gZXILkvEzyig5hS2nRDmxd3xviIWBBx5Q6oYzDstC48WZk8aDtVaUFp9HmiYhsKt-DY5GJTKkcSzvcXXNPtDkj1abNLmVCI~vr1EOd4A1WEC5-gLsInixoOWSyAaGBDo0QHPa2I8j~FkjpIbN88PJVg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA',
     isAlive: true,
     name: 'Рик Cанчез',
     gender: 'Мужской',
@@ -49,7 +49,7 @@ const List<ViewModel> characters = [
   ViewModel(
     id: 1,
     avatar:
-        'https://s3-alpha-sig.figma.com/img/19ac/7d55/ec70f5f8e518adc8d2983ecdd8edbaff?Expires=1621814400&Signature=UvmTdnnN2cnrsJrglpOVv2O5FDUP974zFFkcBux3QghUArCyWABhPvlKhZ-lAJ-HHn3yDSTmiHW2RaLt6BW9wlfI1PcjZKAR74-5vkYNQtiCFSwSowiPJwQzpxK9BYJcHT0DXDJruOOvj0SjtQIrI9kxEpEwBnxl7hfhBOKrhCRFTUaJfV98cneZZmV4hWRdyePLsM1GODu5XkViTL-RhlvvtygcbjVAebS2ZsE9h~sf24PftkMKbjUvZrIlEdgIsDCp1kmkPogBzr7GUAqMOFLKCqnoWJ91tFtEpCO0OJO3UkYaLuA-hFgY4RRl4e9VM3kv4ZX1E~74YrJHaz5Iiw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA',
+        'https://s3-alpha-sig.figma.com/img/19ac/7d55/ec70f5f8e518adc8d2983ecdd8edbaff?Expires=1623024000&Signature=GCcbBfmY-6Qr9iiBRUIw8aIC2fI3HveDgvl5LCQanPWpbGu3~~uGOa9Zpogto0W4VJ7HGPBpTWk9oNauyvFD7y1Ee7eRhJ5r2D06sh9Puv4zJjxAy1AWsu1wV09txf8uf1rD0qmp9QMZtLal9Axn4ZeGb91sJcp5XQbnpWJdYCZpfgKOysqcf9e6WK6fQIcF9zBm2A01xs98mCqG4zQ3Sl6FXeOKXDM~qUiU0C2pEvqdNuxeoLxUdE5yDGunQG-2n20iCGVithUqcTWtc29GRbLqIppMpijnn1iCxHbqLt8SqELj2qbk63-NYkyhX3XEu2Pi1po5XUPgFuoMRRSf~w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA',
     isAlive: true,
     name: 'Директор Агентства',
     gender: 'Мужской',
@@ -58,7 +58,7 @@ const List<ViewModel> characters = [
   ViewModel(
     id: 2,
     avatar:
-        'https://s3-alpha-sig.figma.com/img/68d8/7089/d36f153442643543e91adfb999cbcc8f?Expires=1621814400&Signature=AeIoVrRplUUDoh4C~68o167QQC5vI9jcFPkE5ItKjyZBBkhXNw1gAauKepzWYXDxGlr~ARI~tq553B4IawQ5hSwLiULK29yUjofdvVV1tMFpsl-LtaVEhDdzJSlPFHoBzbK13zVdUkzHYaGD9jOhNK-K3uaA0rhNStZC8cl87inCIGuS1AmkuaLbrrySO43~bwoqloigkLM1JhFLWKcBOgjEK48ZMNOTk5O-cCPDjlRi4-ksdXcn45gpUHXn73qtQ-pVQJ4NjBmLtoOQ8FNulS4KP-McLcYBKNVkMpooTr4jHJRgR6JeEzgud4qrO8o2ul8lQhdvEydyCz-L5V8G~A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA',
+        'https://s3-alpha-sig.figma.com/img/68d8/7089/d36f153442643543e91adfb999cbcc8f?Expires=1623024000&Signature=dFC7qG3Wd2kJVejG2WzVhvxqFuNyCG5lc97B4XEivXI~YiiAgS2gCW~8uUUt8iFl~TZWtux9ZNXsAakkw3xYu8tHaa59U0NHa0og1vXCJPkQEfqALn9Hd9adshVmt0WF9ALcSLiPbxO9t4IFym4yvmth71OsSEYWxlh0KMlxc7O52FVmqRMXy-VKAfWWDn2KGXBsBo7B53gRWJ7DNPmE4V6CdGt7zElQbml4dSVna2Okz8S~EGzALYFOTAdgHuE3hHnaJTSTAEaB6POgskjNQiTPEIbMNilyksnwXo03hxspWZYtGfGkRZs~4VdfeiJQAZOZ1TcEmwdJy8lDjRasIQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA',
     isAlive: true,
     name: 'Морти Смит',
     gender: 'Мужской',
@@ -67,7 +67,7 @@ const List<ViewModel> characters = [
   ViewModel(
     id: 3,
     avatar:
-        'https://s3-alpha-sig.figma.com/img/4df4/871b/3ffff7a6c551edf443d0c1a6901e2d84?Expires=1621814400&Signature=VxqEqAlsXo3W6x97vS~-6VTo-xT8ox4vcrkuiTk~vIV-VYAYYqcXEZSp1~ni4WvBjPjcajwCdsLMnluLHS5RSiTrDh5gZa27GASCYLc6MAHMST5apinwDLgClnYl2gP4iAYGhskJ8ZDob~DX5iNA6Bp0cymYs1xTKkIlAh0hcAfca0scN3wL0TV6YNLIy4O-mMrfz-b8GiE1-LxMOf6e87AgfpRLalsDWNR~VsvYk9T9WJNAtz6I~R2GTX1CxZoduzcAPgUANLwHAF24brGSZ9YB2lKgo0ZTTSL0wbfrKzjC4MQg3lWCDZhFHW1~ROsiIfhzSvDCe21lPymg4UzOIw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA',
+        'https://s3-alpha-sig.figma.com/img/4df4/871b/3ffff7a6c551edf443d0c1a6901e2d84?Expires=1623024000&Signature=EQ4s3tP92S0rXVcpy8pbAt0qYRDLgiH7L9ITMSU36N-jO1-w4-PqQzA7zKBbw6noBhpPMuHvCwkHPEr8aDQZ3N40oK0PjtCortKLOQenI0ryDal7hGygHc0gHBdOvY8q9yoQ3yW209KlyzN2d8UerSGnxjGWZx9~6wtx-6T1GGn9uhUW0h-ZnadBi9Pa0ZNUKfmcVZKdPzJ2jS2H25aTha5sCi2gUSCk9Ac6rEtI9vv0nlt4UbDu9WKsUp709hwIpxSaIALl86RCk-Q41cEogosOy5pEVXjXWItNHaQqZj7h0LIH5Ii2oY5sZuN0eN9d1~YQCi4~jm~tLzp6z57T3A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA',
     isAlive: true,
     name: 'Саммер Смит',
     gender: 'Женский',
@@ -76,7 +76,7 @@ const List<ViewModel> characters = [
   ViewModel(
     id: 4,
     avatar:
-        'https://s3-alpha-sig.figma.com/img/5231/5420/d3cab7e26baca69cfedf6be5d1cbe6a8?Expires=1621814400&Signature=QjFVxPulHqy5s1T4FG-SqqtlQ70EH8PSS8xPw7kar-k9u30NrF3uPxpZJKzTGAC--tbXrli81berd1Q--fVOh8nh6SXr-sszU1EAhzQXz-talBF6fCQmbqHhJBNf~Q7IRotDxT7nZdxuW2u3Y9s-pCBE30qmv6GHWUvMo~HhtH~KTNQF6iKijS2SvSQbW64nr5P4l4iS6g8fyYT7c2kbEJVktD5dtmP2vlvUuy9q4-r4cF0QiwlvFfjZjs7jnq4URbl-hOUM~aiW88uwPu8CN74Kp2t4aSBb9NfvsHz~ZNt~qoT92vYShkHRwRF6WZymvjZIN-XM17vpZJbrl7ZuMQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA',
+        'https://s3-alpha-sig.figma.com/img/5231/5420/d3cab7e26baca69cfedf6be5d1cbe6a8?Expires=1623024000&Signature=ctwoR~cYx5KUdkuv1Hobh8XmCGBthEq737nebWutTfgCW4v89vtz89czmvTjum~nUKjL6gFGm1TovT~3C5oYD~mD9Fjb976tZO~5U0wBxodZqF1oC-35gp2EmI-Ap~nf68RC2z27qByrlhn1KLYIEcBqxZIqO93lL4dEN4URiyENT3j2SeGIfQ70FqzQhXgE6w5QySCL4l7oh2Q24g4qQBNTs3nOwLyErdVlaxCG7wHLgvs66mQeKlRDt8232IufvVbSaCS1L6LH4I3qlMj6gxbfEdLf~FTq0ajg4Bn34fL5b41dKrBe02Csz4~~DIefZbNKj-wgw3lqlsutmNz25Q__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA',
     isAlive: false,
     name: 'Альберт Эйнштейн',
     gender: 'Мужской',
@@ -85,7 +85,7 @@ const List<ViewModel> characters = [
   ViewModel(
     id: 5,
     avatar:
-        'https://s3-alpha-sig.figma.com/img/2f24/2982/34cabb3717c5215bd2c39c04a1c597bd?Expires=1621814400&Signature=X46GELh9JfcH8YpkpyUzpJe4go6ky9pQ-DsHerBsTdaj-6-6TE0hT2OMKuD7QeaWL35rmSOexHP0bAGd5Sei8AHm4lYhPSTlTRvEJItpiVxxqJU7iwzzlRRzIDM9GutmH-Y6sFxQr-uHbirJxG7Eis0HLhdsjxJH36Z07Cc64~xKS3QX3t0Wdo8Ccl6jnP5p1VUONQLF8kKpio9a72dnT-SJepjUpOKF5GQWsVK~Z9-9m34f0MFPf4tgNkwKPg4rifM2-Vq2SpONLKFWBy816zfQzKn8p3t8K3Pw9VJvp7g62m0lwmRp9y64uL5VnH2KF1fCHKg2glwrk6zssEg3MQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA',
+        'https://s3-alpha-sig.figma.com/img/2f24/2982/34cabb3717c5215bd2c39c04a1c597bd?Expires=1623024000&Signature=GSs~huFz5FKcngiHa27uy740iBvZrC0aTfO94Xm~F9ohl5MWq58WRZD-ipQXueFMlLqMkIqqV5yoMSxe-DwfQFjKSmIGwga7RrVjqtIRYZq8S1OCGJIf0ufnzMTPuuoa2ANhJNeDp0AOfwu5iDTBOFE1xwI1wTqeZQruDjTHD48yQCiUtZ8BIMWsrxmWyebMdxap014~X84LqhWvlKL~iNnhprgxruTS0LS7f7aNWjZs~IRhF7onWAG~eJ92q2cAbBg6pN3AqqoeyrUozvIccwH6xaxsuT8LsRXKTjKt-T~ZVjA4G4P4ZWN3s1bMZL~J8AUrlINd7z3V4bm9-7rJpQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA',
     isAlive: false,
     name: 'Алан Райлс',
     gender: 'Мужской',

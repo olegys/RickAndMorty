@@ -32,6 +32,7 @@ class _SplashScreenState extends State<SplashScreen> {
     return Scaffold(
       body: Image.asset(
         Images.splash,
+        width: double.infinity,
         fit: BoxFit.cover,
       ),
     );
